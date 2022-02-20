@@ -1,0 +1,7 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SteamWorksLudus.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  steam_work_test.cpp
+C:\Users\netfo\source\repos\a3\SteamworksCPP-main\HeaderFiles\matchmakingtypes.h(45,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\netfo\source\repos\a3\SteamworksCPP-main\HeaderFiles\matchmakingtypes.h(47,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\netfo\source\repos\a3\SteamworksCPP-main\HeaderFiles\matchmakingtypes.h(161,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\netfo\source\repos\a3\SteamworksCPP-main\HeaderFiles\matchmakingtypes.h(246,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SteamWorksLudus.vcxproj -> C:\Users\netfo\source\repos\a3\SteamworksCPP-main\Debug\steam_work_test.exe
